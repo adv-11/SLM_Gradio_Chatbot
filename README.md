@@ -1,4 +1,4 @@
-# Small Language Models - POC
+# Gradio Chatbot : HuggingFace SLMs
 
 A modular Gradio-based application for interacting with various small language models through the Hugging Face API.
 
